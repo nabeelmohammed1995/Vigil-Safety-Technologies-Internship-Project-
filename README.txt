@@ -1,5 +1,6 @@
 The GUI starts running from the FirstPage.
-Makes sure to import the necessary libraries like jssc.
+It makes use of necessary libraries like jssc anf fazecomm. 
+Also, the GUI will work only if the computer is connected to the vigil radar proximity safety system via USB. 
 
 regards,
 Nabeel Mohammed Asim Khan
