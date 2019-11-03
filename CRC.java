@@ -2,7 +2,7 @@
 
 /**
  *
- * @author unknown
+ * @author Nabeel Mohammed Asim Khan
  */
 public class CRC {
     
